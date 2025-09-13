@@ -2,7 +2,9 @@
   "window.zoomLevel": 0,
   "python.testing.unittestEnabled": false,
   "python.testing.pytestEnabled": true,
-  "python.testing.pytestArgs": [],
+  "python.testing.pytestArgs": [
+    "."
+  ],
   "python.defaultInterpreterPath": "c:\\Users\\Kaio\\AppData\\Local\\Programs\\Python\\Python313\\python.exe",
   "[python]": {
     "editor.defaultFormatter": "ms-python.python",
